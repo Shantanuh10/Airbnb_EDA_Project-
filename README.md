@@ -1,5 +1,5 @@
 # Airbnb EDA Project
-This is the Capstone project which is a part of the Data Science course at AlmaBetter. 
+This is the Capstone project which is a part of my Data Science course at AlmaBetter. 
 
 *Summary of this Project*-
 
